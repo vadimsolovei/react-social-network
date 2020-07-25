@@ -1,0 +1,12 @@
+.active {
+  font-weight: bold;
+}
+.list {
+  display: flex;
+}
+
+.list li {
+  list-style-type: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
